@@ -1,6 +1,6 @@
 'use strict';
 module.exports = {
-    startURL: 'http://www.pwlearning.com/assettransfer/login.html',
+    startURL: 'http://smartuxlearning.com/assettransfer/login.html',
     eventDetection: {
         // The minimum interval for checking events.
         debounceTime: 500,
