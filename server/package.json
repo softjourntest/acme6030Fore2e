@@ -1,6 +1,6 @@
 {
   "name": "acme6030fore2e",
-  "version": "6.0.30",
+  "version": "6.1.1",
   "private": true,
   "description": "PowWow transformation",
   "main": "start.js",
@@ -8,7 +8,7 @@
     "start": "nodemon start.js | bunyan -o short --color"
   },
   "dependencies": {
-    "smartux-connect": "/usr/share/powwowstudio/dataStore/smartux-connect/6.0.30"
+    "smartux-connect": "/usr/share/powwowstudio/dataStore/smartux-connect/6.1.1"
   },
   "engines": {
     "node": "8.x.x"
