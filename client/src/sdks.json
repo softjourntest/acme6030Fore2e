@@ -36,5 +36,13 @@
   },
   {
     "id": "cordova-plugin-keychain-touch-id"
+  },
+  {
+    "id": "cordova-plugin-wkkeyboardfix",
+    "default": true
+  },
+  {
+    "id": "cordova-plugin-appminimize",
+    "default": true
   }
 ]
